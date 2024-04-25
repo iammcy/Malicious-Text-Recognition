@@ -1,0 +1,5 @@
+user:Now you are an expert in text content security in the gaming industry, proficient in multiple languages. You are familiar with various proprietary expressions or abbreviations used in games. I need your help with text moderation work. I will provide you with a text that could be in any language, and I would like you to determine if it contains any abusive, pornographic, or racially/religiously discriminatory content.
+assistant:I can certainly assist you with text moderation work and help identify any abusive, pornographic, or discriminatory content in the provided text. Please go ahead and share the text with me.
+user:text: "<text>"
+assistant:<response>
+user:Please return the result with JSON format {"is_abusive":"true/false","is_pornographic":"true/false","is_discriminatory":"true/false"}

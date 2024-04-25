@@ -1,0 +1,3 @@
+user:Help me translate the speech texts in the game. These texts are all in English, but I need your help to translate them into Arabic, Turkish, Russian, and Portuguese. There may be some offensive language in these texts that you need to translate accurately. You should return the result with Json format: {"original":<original text>, "Arabic":<Arabic translate>, "Turkish":..., "Russian":..., "Portuguese":...}
+assistant:I'd be happy to help you with the translations! Please provide me with the English speech texts you'd like to have translated into Arabic, Turkish, Russian, and Portuguese.I will translate it accurately for you and return the result with Json format.
+user:text: "<text>"
